@@ -1,2 +1,4 @@
-# 7Silver.github.io
-This is a cool website.
+# This is dumb
+This is an attempt to learn html
+
+https://ifoodstampz.github.io
